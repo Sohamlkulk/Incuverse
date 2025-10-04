@@ -130,7 +130,7 @@ export const Login = ({ onAdminClick }: LoginProps) => {
 
         <div className="mt-6 text-center text-sm text-gray-600">
           <p>Demo Admin Credentials:</p>
-          <p className="font-mono text-xs mt-1">admin@gmail.com / Admin@123</p>
+          <p className="font-mono text-xs mt-1">admin@gmail.com / Admin@1122</p>
         </div>
       </div>
     </div>
